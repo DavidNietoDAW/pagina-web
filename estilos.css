@@ -1,10 +1,17 @@
 body p{
-	background-color: cyan;
+	background-color: red;
 }
 body h1{
+<<<<<<< HEAD
+	background-color: red;
+=======
 	background-color: salmon;
 
+>>>>>>> refs/remotes/origin/master
 }
 body h3{
+	color:red;
+}
+h2{
 	color:red;
 }
